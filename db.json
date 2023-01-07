@@ -4,8 +4,8 @@
       "id": 1,
       "message": "Issue in Network Card in Worksystem 116",
       "attention": true,
-      "tech": "Steve Smith",
-      "date": "2023-01-03T10:22:08.483Z"
+      "tech": "Sam Smith",
+      "date": "2023-01-07T07:47:37.145Z"
     },
     {
       "id": 2,
@@ -24,11 +24,6 @@
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
       "id": 2,
       "firstName": "Sam",
       "lastName": "Smith"
@@ -37,6 +32,16 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Parikhit",
+      "lastName": "Baruah",
+      "id": 4
+    },
+    {
+      "firstName": "Dave",
+      "lastName": "Gray",
+      "id": 5
     }
   ]
 }
